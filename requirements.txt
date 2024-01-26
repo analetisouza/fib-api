@@ -1,0 +1,7 @@
+annotated-types==0.6.0
+fastapi==0.109.0
+pydantic==2.5.3
+pydantic_core==2.14.6
+starlette==0.35.1
+typing_extensions==4.9.0
+uvicorn==0.27.0
